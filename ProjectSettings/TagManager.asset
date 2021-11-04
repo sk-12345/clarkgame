@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - 2Corridor
+  - 2down
+  - 2up
+  - 2aD
+  - 2bD
+  - 1d
+  - 1up
+  - 2Ad
+  - 2Bd
+  - 3Cd
+  - 5bD
+  - 5up
+  - 5down
+  - 3eD
+  - 5cD
+  - 5dD
+  - Bd
+  - 3Dd
+  - 3cD
+  - 3dD
+  - 3bD
+  - 3down
+  - 3up
+  - 3Bd
+  - 5Bd
+  - 5Dd
+  - 4Dd
+  - 4Ad
+  - 5Cd
+  - 4up
+  - 4cD
+  - 4dD
+  - 4down
+  - 4bD
+  - 4aD
+  - 6down
+  - bD
+  - 4Bd
+  - 2A
+  - 2a
+  - 2B
+  - 2b
+  - 3B
+  - 3b
+  - 3C
+  - 3c
+  - 3D
+  - 3d
+  - 4A
+  - 4a
+  - 4B
+  - 4b
+  - 4C
+  - 4c
+  - 4D
+  - 4d
+  - 5A
+  - 5a
+  - 5B
+  - 5b
+  - 5C
+  - 5c
+  - 5D
+  - 5d
+  - B
+  - b
+  - mail
+  - box
+  - I
+  - belt
+  - tie
+  - School emble
+  - MainBack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
