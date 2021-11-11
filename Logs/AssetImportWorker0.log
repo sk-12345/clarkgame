@@ -168,3 +168,19 @@ System memory in use after: 123.8 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1649.
 Total: 3.716264 ms (FindLiveObjects: 0.474953 ms CreateObjectMapping: 0.070768 ms MarkObjects: 2.337644 ms  DeleteObjects: 0.830552 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 973.163687 seconds.
+  path: Assets/test.cs
+  artifactKey: Guid(5f60b4e2ffae94a989d19cf31051cfe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test.cs using Guid(5f60b4e2ffae94a989d19cf31051cfe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab68d615ed75bbf63851edbc6eda9bac') in 0.427005 seconds
+  Import took 0.529093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.559515 seconds.
+  path: Assets/test.cs
+  artifactKey: Guid(5f60b4e2ffae94a989d19cf31051cfe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test.cs using Guid(5f60b4e2ffae94a989d19cf31051cfe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab68d615ed75bbf63851edbc6eda9bac') in 0.003549 seconds
+  Import took 0.010818 seconds .
+
